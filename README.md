@@ -9,10 +9,6 @@
 ---
 
 ## 🐼Me
-### 技能
-* 熟悉 JavaScript、HTML、CSS、Vue 的拼写
-* 了解 Linux、windows、macOS 的开关机方式
-* 精通 Git 的 pull 和 push，并注册了 GitHub 帐号刷了一些 star
 
 ---
 
