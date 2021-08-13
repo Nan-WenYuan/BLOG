@@ -1,4 +1,4 @@
-* [日记](/diary/index.md)
+* [日记](/diary/README.md)
   * [20210611晨.md](/diary/20210611晨.md)  
   * [20210611昏.md](/diary/20210611昏.md)  
   * [20210612晨.md](/diary/20210612晨.md)  

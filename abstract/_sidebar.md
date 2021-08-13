@@ -1,1 +1,1 @@
-* [文摘](/abstract/index.md)
+* [文摘](/abstract/README.md)

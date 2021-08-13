@@ -1,1 +1,1 @@
-* [文档](/docs/index.md)
+* [文档](/docs/README.md)
