@@ -1,13 +1,20 @@
-# 开发者手册
+# 开发手册
 - 阿里巴巴Java开发手册 https://www.yuque.com/xujiyue/eckaxq/pw3icx
 - 慕课教程 http://www.imooc.com/wiki/
 - 极客学院WIKI https://wiki.jikexueyuan.com/
-- Java全栈知识体系 https://www.pdai.tech/
 - Vue.js官方手册 https://cn.vuejs.org/menu/
 
-# 技术
-- Evan's_blog https://xugaoyi.com/web/
+# 技术文档
+- Java全栈知识体系 https://www.pdai.tech/
+- JavaGuide https://snailclimb.gitee.io/javaguide/#/
+- JavaGuide面试突击版 https://snailclimb.gitee.io/javaguide-interview/#/
+- SPRING-TUTORIAL https://dunwu.github.io/spring-tutorial/
+- FE-Interview http://interview.poetries.top/
+- MySQL 系列教程（笔记） https://zq99299.github.io/mysql-tutorial/
 - CS_WIKI https://veal98.gitee.io/cs-wiki/#/README
+
+# 大佬博客
+- Evan's_blog https://xugaoyi.com/web/
 
 # 博客管理
 - PicX https://picx.xpoet.cn/
@@ -21,7 +28,32 @@
 - 码力全开 https://design.maliquankai.com/
 
 
-# 文学
+# 书单
+- 《悲惨世界》
 - 《人间失格》
-- 《万历十五年》
-- 《浮生六记》
+- 《草叶集》
+- 《情书》
+- 《一个叫维欧的男人决定去死》
+- 《西西弗神话》
+- 《陌生女人的来信》
+- 《情人》
+- 《忏悔录》
+- 《夏日永别》
+- 《罗生门》
+- 《源氏物语》
+- 《神曲》
+- 《傲慢与偏见》
+- 《菊与刀》
+- 《鲁迅经典全集》
+- 《约翰·克利斯朵夫》
+- 《变形记》
+- 《查拉图斯特如是说》
+- 《史记》
+- 《理想国》
+- 《传习录》
+- 《了不起的盖茨比》
+- 《我的前半生》
+- 《明朝那些事》*已阅*
+- 《王阳明全集》
+- 《万历十五年》*已阅*
+- 《浮生六记》*已阅*
