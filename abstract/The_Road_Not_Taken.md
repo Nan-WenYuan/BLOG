@@ -42,4 +42,4 @@ Two roads diverged in a wood,and I—
 I took the one less traveled by,  
 而我选择了人迹更少的一条，  
 And that has made all the difference  
-从此决定我一生的道路  
+从此决定了我一生的道路  
