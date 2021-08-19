@@ -21,7 +21,7 @@
 - MySQL 系列教程（笔记） https://zq99299.github.io/mysql-tutorial/
 - CS_WIKI https://veal98.gitee.io/cs-wiki/#/README
 
-# 大神博客
+# 大佬博客
 - Evan's_blog https://xugaoyi.com/web/
 
 # 设计资源
