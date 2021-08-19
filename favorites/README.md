@@ -1,3 +1,11 @@
+# 博客管理
+- PicX https://picx.xpoet.cn/
+- code `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`
+- CodeSpace https://hilbertnan-docsify-notebook-49wxgvqwfjwvw.github.dev/
+- vercel https://vercel.com/dashboard
+- cloudflare https://dash.cloudflare.com/
+- freenom https://my.freenom.com/
+
 # 开发手册
 - 阿里巴巴Java开发手册 https://www.yuque.com/xujiyue/eckaxq/pw3icx
 - 慕课教程 http://www.imooc.com/wiki/
@@ -13,20 +21,11 @@
 - MySQL 系列教程（笔记） https://zq99299.github.io/mysql-tutorial/
 - CS_WIKI https://veal98.gitee.io/cs-wiki/#/README
 
-# 大佬博客
+# 大神博客
 - Evan's_blog https://xugaoyi.com/web/
 
-# 博客管理
-- PicX https://picx.xpoet.cn/
-- code `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`
-- CodeSpace https://hilbertnan-docsify-notebook-49wxgvqwfjwvw.github.dev/
-- vercel https://vercel.com/dashboard
-- cloudflare https://dash.cloudflare.com/
-- freenom https://my.freenom.com/
-
-# 设计
+# 设计资源
 - 码力全开 https://design.maliquankai.com/
-
 
 # 书单
 - 《悲惨世界》
