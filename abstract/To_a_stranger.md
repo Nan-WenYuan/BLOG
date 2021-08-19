@@ -6,7 +6,7 @@ Passing stranger
 you do not know how longingly I look upon you  
 你有所不知 我多么热切的注视着你  
 You must be he I was seeking  
-你一定是我苦苦寻觅的那个他
+你一定是我苦苦寻觅的那个他  
 Or she I was seeking  
 亦或是那个她
 It comes to me, as a dream  
