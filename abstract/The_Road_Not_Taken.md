@@ -38,8 +38,8 @@ I shall be telling this with a sigh
 Somewhere ages and ages hence:  
 我将轻声叹息将往事回顾：  
 Two roads diverged in a wood,and I—  
-一片树林里分出两条路——  
+黄色的树林里分出两条路——  
 I took the one less traveled by,  
-而我选择了人迹更少的一条，  
+我选择了人迹更少的那一条，  
 And that has made all the difference  
-从此决定了我一生的道路  
+从此决定了我一生的道路。  
