@@ -4,13 +4,21 @@
 *罗伯特·弗罗斯特*  
   
 Two roads diveraged in a yellow wood,  
+　　
 黄色的树林里分出两条路，  
+　　
 And sorry I could not travel both  
+　　
 可惜我不能同时去涉足，  
+　　
 And be one traveler, long I stood.  
+　　
 我在那路口久久伫立，  
+　　
 And looked down one as far as I could  
+　　
 我向着一条路极目望去，  
+　　
 To where it bent in the undergrowth;  
 直到它消失在丛林深处。  
 Then took the other, as just as fair,  
