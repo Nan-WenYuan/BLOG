@@ -11,7 +11,7 @@ Coral is far more red than her lips' red:
   
 If snow be white, why then her breasts are dun;  
   
-雪若算白，她的胸就暗褐无光  
+雪若算白，她的胸脯就暗褐无光  
   
 If hairs be wires, black wires grow on her head.  
   
