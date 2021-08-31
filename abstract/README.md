@@ -1,4 +1,4 @@
-# ABSTRACT
+# [🖋](https://github.com/Hilbertnan/BLOG/blob/main/abstract/_sidebar.md)ABSTRACT  
 
 我们读诗写诗，并不是因为它好玩  
 我们读诗写诗是因为我们是人类的一分子  
@@ -9,4 +9,6 @@
 但诗歌  
 美丽、浪漫、爱  
 这些才是我们生活的意义  
-[🖋](https://github.com/Hilbertnan/BLOG/blob/main/abstract/_sidebar.md)
+  
+  
+
