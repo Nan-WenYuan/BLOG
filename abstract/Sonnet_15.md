@@ -27,5 +27,5 @@ To change your day of youth to sullied night
 要把你青春的白日变成暗淡黑夜  
 And all in war with time for love of you  
 为了爱你 我将和时间对抗  
-As he takes from you, l engraft you new.
-它从你身上夺走的，我会重新夺回。
+As he takes from you, l engraft you new.  
+当他从你身上夺走时，我会为你重新嫁接。
