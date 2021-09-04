@@ -10,7 +10,7 @@ And sorry I could not travel both
 And be one traveler, long I stood.  
 我在那路口久久伫立，  
 And looked down one as far as I could  
-我向着一条路极目望去，    　
+我向着一条路极目望去,  
 To where it bent in the undergrowth;    
 直到它消失在丛林深处。    
 Then took the other, as just as fair,  
