@@ -1,6 +1,6 @@
 # 博客管理
 - PicX https://picx.xpoet.cn/
-- code `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`
+- code `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`
 - CodeSpace https://hilbertnan-docsify-notebook-49wxgvqwfjwvw.github.dev/
 - vercel https://vercel.com/dashboard
 - cloudflare https://dash.cloudflare.com/
