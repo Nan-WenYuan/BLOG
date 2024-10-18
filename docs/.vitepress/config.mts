@@ -36,7 +36,7 @@ export default defineConfig({
         outlineTitle: 'On this page', // 大纲标题
         // 导航社交图标
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/NanWenYuan'}
+            {icon: 'github', link: 'https://github.com/Nan-WenYuan'}
         ],
         // 页脚信息
         // footer: {
