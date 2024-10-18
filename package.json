@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.31"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 10002",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@w3ctech-editorial-department/vitepress-auto-configure-nav-sidebar": "^1.0.0",
+    "vue": "^3.3.9"
+  }
+}
