@@ -9,7 +9,7 @@ export const themeConfig = {
         // 站点logo
         logo: "/images/logo/logo.webp",
         // 站点地址
-        site: "https://blog-azure-two-88.vercel.app/",
+        site: "https://devnanblog.netlify.app/",
         // 语言
         lang: "zh-CN",
         // 作者
