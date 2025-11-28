@@ -9,7 +9,7 @@ export const themeConfig = {
         // 站点logo
         logo: "/images/logo/logo.webp",
         // 站点地址
-        site: "https://blog.nanwenyuan.space",
+        site: "https://blog-azure-two-88.vercel.app/",
         // 语言
         lang: "zh-CN",
         // 作者
@@ -17,7 +17,7 @@ export const themeConfig = {
             name: "Admin",
             cover: "/images/logo/logo.webp",
             email: "dev_nan@outlok.com",
-            link: "https://blog.nanwenyuan.space",
+            link: "https://blog-azure-two-88.vercel.app/",
         },
     },
     // 备案信息
@@ -40,7 +40,7 @@ export const themeConfig = {
                     rel: "alternate",
                     type: "application/rss+xml",
                     title: "RSS",
-                    href: "https://blog.nanwenyuan.space/rss.xml",
+                    href: "https://blog-azure-two-88.vercel.app/rss.xml",
                 },
             ],
             // 预载 CDN
@@ -155,7 +155,7 @@ export const themeConfig = {
                 {
                     icon: "/images/logo/logo.webp",
                     name: "博客镜像站",
-                    url: "https://blog.nanwenyuan.space/",
+                    url: "https://blog-azure-two-88.vercel.app/",
                 },
             ],
         },
@@ -165,7 +165,7 @@ export const themeConfig = {
                 {
                     icon: "",
                     name: "站点监测",
-                    url: "https://blog.nanwenyuan.space/",
+                    url: "https://blog-azure-two-88.vercel.app/",
                 },
             ],
         },
@@ -239,7 +239,7 @@ export const themeConfig = {
                 text: "服务",
                 items: [
                     {text: "站点状态", link: "/", newTab: true},
-                    {text: "站点订阅", link: "https://blog.nanwenyuan.space/rss.xml", newTab: true},
+                    {text: "站点订阅", link: "https://blog-azure-two-88.vercel.app/rss.xml", newTab: true},
                     {
                         text: "反馈投诉",
                         // link: "https://eqnxweimkr5.feishu.cn/share/base/form/s",
